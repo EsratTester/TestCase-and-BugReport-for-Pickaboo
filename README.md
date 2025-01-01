@@ -19,7 +19,7 @@ Pickaboo is a leading e-commerce platform in Bangladesh offering a wide range of
 ## Test Report
 Overall the summary of the project
 
-##Test Cases
+## Test Cases
 Main part of the project. After doing all the things that helps to write and execute the test cases more specific. In this project all the test cases have been executed without having any delay.
 There are 73 Pass test cases and 9 Fail test cases. It only for the Registration and Login feature. There i maintain a sequence of testing:
 - Browser Compatibility
@@ -27,7 +27,7 @@ There are 73 Pass test cases and 9 Fail test cases. It only for the Registration
 - Functional testing
 - Usability testing
 
-##Bug Report
+## Bug Report
 Here all the fail test cases which are have to inform to the developer.
 
 ## Test Metrics
